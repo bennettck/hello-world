@@ -24,4 +24,4 @@ As Bay said:
 
 
 Inlne code
-I think you should use a 'head' element here
+I think you should use a `Code-Snipit` style here
